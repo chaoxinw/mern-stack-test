@@ -31,7 +31,6 @@ export const deleteItem = id => dispatch => {
 				payload: id
 			})
 		)
-		
 };
 
 export const setItemsLoading = () => {
