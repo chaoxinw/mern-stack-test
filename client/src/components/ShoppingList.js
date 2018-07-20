@@ -42,6 +42,7 @@ class ShoppingList extends Component {
 				</ListGroup>
 
 			</Container>
+			<div>Hello world</div>
 		);
 	}
 }
